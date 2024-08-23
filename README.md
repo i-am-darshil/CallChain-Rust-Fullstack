@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## The project creates a Query Language to chain calls to multiple blochchain using Rust
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2024-08-23 at 2 12 43 PM](https://github.com/user-attachments/assets/859fdd95-01cd-49bf-bf5c-36a107777d05)
 
 ## Available Scripts
 
